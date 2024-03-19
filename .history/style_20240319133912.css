@@ -88,11 +88,7 @@ body{
     padding: 0 1rem;
 
    }
-   .hero{
-    width: 53%;
-    margin: auto;
-   }
-   
+
    .gray {
     background-color:rgb(223, 222, 222)
    }
@@ -114,7 +110,7 @@ body{
    
    h1.title {
     margin-bottom: 2rem;
-    text-align: left;
+    text-align: center;
     /* font-weight: bold; */
    }
 
@@ -215,7 +211,7 @@ body{
     color: white;
    }
    footer p.copyright{
-    padding: 3rem 0;
+    padding: 3 rem 0;
     color: #ffffffdd;
     text-align: center;
    }
@@ -241,7 +237,6 @@ body{
     border-radius: 5px ;
     border: 1px solid #ccc;
     }
-
 
    
    

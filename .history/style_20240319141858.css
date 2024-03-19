@@ -89,10 +89,10 @@ body{
 
    }
    .hero{
-    width: 53%;
+    width: 100%;
     margin: auto;
    }
-   
+   }
    .gray {
     background-color:rgb(223, 222, 222)
    }
@@ -114,7 +114,7 @@ body{
    
    h1.title {
     margin-bottom: 2rem;
-    text-align: left;
+    text-align: center;
     /* font-weight: bold; */
    }
 

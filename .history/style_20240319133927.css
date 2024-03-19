@@ -88,11 +88,7 @@ body{
     padding: 0 1rem;
 
    }
-   .hero{
-    width: 53%;
-    margin: auto;
-   }
-   
+
    .gray {
     background-color:rgb(223, 222, 222)
    }
@@ -114,7 +110,7 @@ body{
    
    h1.title {
     margin-bottom: 2rem;
-    text-align: left;
+    text-align: center;
     /* font-weight: bold; */
    }
 
@@ -207,7 +203,7 @@ body{
    footer ul{
     display: flex;
     justify-content: space-evenly;
-    padding-top: 3rem;
+    padding-top: 3 rem;
     list-style-type: none;
    }
 
@@ -215,7 +211,7 @@ body{
     color: white;
    }
    footer p.copyright{
-    padding: 3rem 0;
+    padding: 3 rem 0;
     color: #ffffffdd;
     text-align: center;
    }
@@ -237,11 +233,10 @@ body{
     [type ="email"]
     [type ="senha"]{
     width: 180px;
-    padding: 0.5rem;
+    padding: 0.5 rem;
     border-radius: 5px ;
     border: 1px solid #ccc;
     }
-
 
    
    

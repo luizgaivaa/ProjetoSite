@@ -89,8 +89,8 @@ body{
 
    }
    .hero{
-    width: 53%;
-    margin: auto;
+    width: 60%;
+    margin: left;
    }
    
    .gray {
@@ -114,7 +114,7 @@ body{
    
    h1.title {
     margin-bottom: 2rem;
-    text-align: left;
+    text-align: center;
     /* font-weight: bold; */
    }
 

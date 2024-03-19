@@ -88,11 +88,7 @@ body{
     padding: 0 1rem;
 
    }
-   .hero{
-    width: 53%;
-    margin: auto;
-   }
-   
+
    .gray {
     background-color:rgb(223, 222, 222)
    }
@@ -114,7 +110,7 @@ body{
    
    h1.title {
     margin-bottom: 2rem;
-    text-align: left;
+    text-align: center;
     /* font-weight: bold; */
    }
 
@@ -234,14 +230,6 @@ body{
    
    input
     [type ="text"]
-    [type ="email"]
-    [type ="senha"]{
-    width: 180px;
-    padding: 0.5rem;
-    border-radius: 5px ;
-    border: 1px solid #ccc;
-    }
-
-
+    [type ="Email"]
    
    
